@@ -1,0 +1,8 @@
+{
+    "name": "pjdietz/complex-sort",
+    "autoload": {
+        "psr-0": {
+            "pjdietz\\ComplexSort": "src/"
+        }
+    }
+}
