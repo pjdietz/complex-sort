@@ -1,5 +1,16 @@
 {
     "name": "pjdietz/complex-sort",
+    "description": "Chain multiple comare functions together for use in usort",
+    "keywords": ["sort", "compare", "array"],
+    "homepage": "https://github.com/pjdietz/complex-sort",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "PJ Dietz",
+            "email": "pj@pjdietz.com"
+        }
+    ],
     "autoload": {
         "psr-0": {
             "pjdietz\\ComplexSort": "src/"
